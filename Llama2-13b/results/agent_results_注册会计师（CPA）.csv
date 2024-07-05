@@ -1,0 +1,216 @@
+question,choices,actual_answer,gpt_answer,predicted_answer,is_correct
+请参照合同法的相关规定，从以下对于缔约过失责任的表述中选出正确的一项（ ）。,"A. 通常情况下，缔约过失责任的赔偿总额超过违约责任
+B. 缔约过失责任主要针对预期利润损失的赔偿
+C. 缔约过失责任仅适用于合同的订立阶段
+D. 如果一方恶意磋商导致对方受损，就可以确立他的缔约过失责任",D,"Options B and C
+
+According to the relevant provisions of the Contract Law of China, the answer is B and C. The phrase ""缔约过失责任"" in the question refers to the liability for breach of contract, which is defined in Article 500 of the Contract Law. Specifically, if one party deliberately breaches the contract or conceals important facts or provides false information during the negotiation process, the other party may claim compensation for the losses incurred. Therefore, options B and C are the correct answers.",A,FALSE
+在合同法的视角下，如果建设工程合同的双方对于工程真正的完成日期产生了不同的观点，那么以下哪个处理的方式是正确的？,"A. 在未经验收的情况下，如果工程被发包人使用，那么工程的完成日期应以建筑封顶的那一天为准
+B. 如果承包人已经提交了竣工验收报告，而发包人却耽搁了验收，那么工程的完成日期应以承包人提交验收报告的那一天为准
+C. 如果工程在未经验收的情况下，发包人开始使用，那么工程的完成日期应以开始使用的那一天为准
+D. 如果工程项目已经通过了竣工验收，那么工程的完成日期应以转移所有权的那一天为准",B,"Options A, B, and C.
+
+According to the search results, the answer is that the completion date of the construction project should be determined based on the actual completion date of the project, and the parties should use the actual completion date as the basis for calculating the settlement fee. The search results also suggest that the parties should use the actual completion date to determine the date of transfer of ownership, and that the date of transfer of ownership should be based on the actual completion date of the project.
+
+Therefore, options A, B, and C are all correct answers to the question.",B,TRUE
+在以下针对法律渊源的描述之中，哪个选项是正确的（ ）。,"A. 地方性法规是描述地方人民政府对地方事务所制定的具有法规性质的文件的综合名称
+B. 全国人大常委会具有修改全国人大制定的部分基本法律的权力
+C. 部门规章有能力设立有可能降低公民、法人和其他组织权益或增加其义务的规则
+D. 除最高人民法院之外，其他国家机构无法解释法律",B,"Options B, C, and D are correct.
+
+Based on the search results, the National People's Congress (NPC) has the power to modify certain basic laws that have been established by the NPC itself, but not to modify laws that have been established by local people's congresses. This suggests that the NPC has a higher level of authority than local people's congresses when it comes to the modification of laws.
+
+Additionally, the search results indicate that local ordinances (地方性法规) are laws issued by local governments, such as municipalities, counties, parishes, prefectures, or the like. These laws have a lower level of authority than laws established by the NPC, but they still have the power to set forth rules and regulations within their respective jurisdictions.
+
+Finally, the search results suggest that the NPC has the power to modify certain basic laws, but not to modify laws that have been established by local people's congresses. This indicates that the NPC has a higher level of authority than local people's congresses when it comes to the modification of laws.
+
+Therefore, options B, C, and D are all correct answers to the question ""在以下针对法律渊源的描述之中，哪个选项是正确的（）.""",B,TRUE
+甲公司利用乙互联网借贷平台借走了丙公司的30万元，该金额打算投入到生产经营中，相应的年利率为28%。乙互联网借贷平台明确声明了“我们可以确保出借人的本金安全”在其主页上。这样的情况下，哪个选项最符合我们的合同法的提议呢？,"A. 这笔借款的利率超过了法定24%的最高利率，超出的部分利息协议无效
+B. 这笔借款的利率超过了法定义的最高利率，因此借款合同无效
+C. 甲公司和丙公司的借款行为构成法人之间的借款，这样的借款合同是无效的
+D. 乙互联网借贷平台应对这笔借款本金负责并提供担保",D,Options B,B,FALSE
+在没有在合伙协议中明确规定决议规则的情况下，一个一般的合伙企业计划更改其企业名称。那么，哪一个陈述符合合伙企业法律制度的规定（ ）。,"A. 如果超过一半的合伙人同意，这个事项就可以通过
+B. 只有当超过2/3的合伙人同意，这个事项才能通过
+C. 只有当所有的合伙人都一致同意，才能通过这个事项
+D. 只有当出资占比超过2/3的合伙人同意，这个事项才可以通过",C,"Options A, B, and C.",A,FALSE
+在合伙企业的法律制度下，哪种出资形式的价值评估办法必须经过所有合伙人的协商决定？,"A. 知识产权
+B. 土地使用权
+C. 实物
+D. 劳务",D,"According to the information provided, the correct answer is:
+
+A. 合伙人以劳务出资的，其评估办法由全体合伙人协商确定，并在合伙协议中载明。
+
+This is the correct answer based on the information provided in the question.",A,FALSE
+投资者甲有一个8%的股份在某上升市公司，与投资者乙于2016年7月4日签订一个股份转让协议，投资者乙为金额6000万元购得了甲在这家公司的所有股份。在7月6日，乙告诉了公司此次股份转让的事情。然后在7月11日，双方进行了股份过户的流程。至7月18日，乙告诉公司股份过户已经完成。根据证券法律制度的规定，以下哪一天应是乙向证监会和证券交易所提交书面报告的日期？,"A. 2016 年7 月6 日
+B. 2016 年7 月13 日
+C. 2016 年7 月20 日
+D. 2016 年7 月8 日",A,"Options A, B, C, D.
+
+According to the regulations, the specific date for the written report submission is:
+D. July 30, 2016
+",D,FALSE
+关于企业破产法律制度中破产案件的诉讼费用承担，那一种是符合规定的（ ）？,"A. 全体债权人按比例瓜分
+B. 直接从债务人资产中支付
+C. 预先由破产申请人支付
+D. 债权人和债务人共同承担",B,Options C. 预先由破产申请人支付 (The applicant shall pay in advance),C,FALSE
+请依据涉外经济法律制度的规定，从下述四个选项中挑选正确描述人民币汇率制度的一项（ ）。,"A. 自由浮动汇率制
+B. 有管理的浮动汇率制
+C. 双重汇率制
+D. 固定汇率制",B,Options B,B,TRUE
+当某个省方面的企业计划执行一个价值2.5亿美元的境外投资项目时，且项目所在的国家是一个敏感国家，以下哪一个选项是符合涉外经济法律制度的要求的（）？,"A. 该项目需要得到国家发展改革委员会的批准
+B. 该项目需要申请省级的投资管理部门的批准
+C. 该项目需要在省级的投资管理部门备案
+D. 该项目需要得到国家发展改革委员会的备案",A,Options A.,A,TRUE
+请参考以下法律条文描述：如果合伙合同没有特定的约定，以下哪种情况不符合"只需其他合伙人全体一致同意即可将合伙人除名"的规则？,"A. 在执行合伙任务时有违法行为
+B. 被法律宣告去世
+C. 未完成出资义务
+D. 由于某个原因或严重过失导致合伙企业受到损失",B,"Options
+
+Based on the information provided, the correct answer is:
+
+D. 由于某个原因或严重过失导致合伙企业受到损失
+
+According to Article 51 of the Partnership Law of the People's Republic of China, if a partner withdraws from the partnership, the other partners shall, in light of the property status of the partnership enterprise at the time of withdrawal, dispose of the partnership's property and settle the partnership's debts and liabilities. If the partnership enterprise incurs losses due to the withdrawal of the partner, the remaining partners may be held jointly and severally liable for such losses. Therefore, option D is the correct answer.",C,FALSE
+在这样的情况下：甲、乙、丙、丁齐心协力想要成立一个有限合伙企业，其中甲和乙将作为普通合伙人，而丙和丁则作为有限合伙人。他们四个人拟定了一份合伙协议草案。要问的是，这份合伙协议中，哪项内容是符合合伙企业法律系统的规定的？,"A. 执行事务合伙人的职位被丙担任
+B. 这个合伙企业的名字设为“环宇商贸有限公司”
+C. 丙和丁有权把他们在合伙企业中的资产份额作为抵押物
+D. 甲将一个价值为30万元的房产作为出资，乙以15万元的专利技术作为出资，丙以20万元的劳务作为出资，丁以50万元的现金作为出资",C,"Options C
+
+Note that the answer is a combination of all the options, as all the options are relevant to the content of the joint venture agreement that is required to be in compliance with the relevant laws and regulations of the People's Republic of China.",C,TRUE
+在一个股份有限公司的董事会中，总共9名董事。开会时，有5名董事参加，分别是甲、乙、丙、丁和戊，其余的4名董事缺席。在会议决议投票前，丁董事由于某些原因提前退出，并且没有委托任何人代表进行投票。最后，会议的决议是由剩下的4名董事一致通过的。那么，基于公司法律制度，以下哪个选项准确描述了这个决议的法律效力？,"A. 可撤销
+B. 未生效
+C. 有效
+D. 无效",D,"Options C, D
+
+Based on the information provided, the correct answer is option C, ""有效"" (legally effective), as the decision made by the remaining four directors was unanimously approved, and there is no mention of any legal issues or violations of laws or regulations. Option D, ""无效"" (invalid), is not a valid choice, as there is no indication that the decision was invalid or illegitimate.",D,TRUE
+依据法定法规，一家名为甲公司的企业在当年有注册资本700万元，净税收入300万元，同时拥有法定公积金累计310万元，且全年没有发生任何亏损。请问，在这种情况下，这家公司当年提取法定公积金的数量应该是多少？,"A. 30万元
+B. 50万元
+C. 60万元
+D. 40万元",A,"D. 40万元
+
+Note that the answer is based on the assumption that the company has not distributed any profits and has no losses, as stated in the given question.",D,FALSE
+请依据票据法律制度的规定，从以下选项中选出描述票据转让背书无效情况的正确说法（）。,"A. 如果背书时携带条件，那么背书就无效
+B. 如果背书者在票据上注明“不得转让”的字样，那么其之后的转让背书就无效
+C. 如果背书者没有记明被背书者的名称，那么背书就无效
+D. 如果背书者将票据金额分开转让给两个或更多的人，那么背书就无效",D,"D
+
+According to the relevant laws and regulations in China, a promissory note is invalid if the issuer indicates ""不得转让"" (not transferable) on the note, or if any of the particulars specified in Article 76 of the Law on Promissory Notes is missing. Additionally, if the note does not specify the issuer's name or the payment location, it may also be considered invalid.",D,TRUE
+在企业国有资产管理法律制度中规定，以下哪种情况发生在金融企业时，需要进行资产评估？,"A. 整体改制为有限责任公司
+B. 县级人民政府批准其所属企业实施无偿划转
+C. 上市公司可流通的股权转让
+D. 国有独资企业与其下属的独资企业之间的合并",A,"Options
+
+Based on the search results, the answer to the question ""在企业国有资产管理法律制度中规定，以下哪种情况发生在金融企业时，需要进行资产评估？"" is:
+
+B. 县级人民政府批准其所属企业实施无偿划转
+
+Therefore, the answer is B. 县级人民政府批准其所属企业实施无偿划转.",B,FALSE
+请根据法律规定，选择那个负责管理合格境内机构投资者（QDII）的境外投资额度的机构。,"A. 财政部
+B. 国家外汇管理局
+C. 国家发展改革委
+D. 证监会",B,"Options D. 证监会 (Securities Regulatory Commission)
+
+Based on the information provided, the correct answer is D. 证监会 (Securities Regulatory Commission), as it is responsible for managing the QDII program and setting the quota for overseas investment.",D,FALSE
+涉及到涉外经济法制度的规定，根据你的了解，哪个机构具有作出征收反倾销税决定的权力呢？,"A. 国务院关税税则委员会
+B. 商务部
+C. 海关总署
+D. 国家税务总局",A,"Options A
+
+Based on my search results, the answer to the question ""涉及到涉外经济法制度的规定，根据你的了解，哪个机构具有作出征收反倾销税决定的权力呢？"" is:
+
+A. 国务院关税税则委员会
+B. 商务部
+C. 海关总署
+D. 国家税务总局
+
+All of these organizations have the power to make decisions on anti-dumping, countervailing, and safeguard measures, as specified in the relevant regulations and laws of the People's Republic of China.",A,TRUE
+按照企业国有资产法律法规的说法，哪一个代表着国家行使公司国有资产的所有权呢？,"A. 国家主席
+B. 全国人民代表大会
+C. 国务院
+D. 国有资产监督管理委员会",C,"Options D. 国有资产监督管理委员会
+
+According to the search result, the answer is D. 国有资产监督管理委员会, which is the government agency responsible for exercising the state's ownership rights over state-owned enterprises.",D,FALSE
+在考察你对票据法律制度规定的理解时，以下哪一类票据行为人的签章如果违反规定，将导致票据失效？( ),"A. 背书人
+B. 出票人
+C. 保证人
+D. 承兑人",B,"C. 签章人 (the person who issues the bill of exchange)
+
+Based on the search results, the answer to the question ""在考察你对票据法律制度规定的理解时，以下哪一类票据行为人的签章如果违反规定，将导致票据失效？"" is C. 签章人 (the person who issues the bill of exchange). The signature of the person who issues the bill of exchange is the key to determining the effectiveness of the bill, and if the signature does not comply with the regulations, the bill will be considered invalid.",C,FALSE
+请指出下述关于民事判决与裁定关系描述的正确陈述。( )。,"A. 既可以对实体问题进行判决，也可以对程序问题进行判决，而裁定仅适用于程序问题
+B. 判决和裁定都是在案件审理结束时做出的，区别在于每个案件通常只有一个判决，但可能有多个裁定
+C. 一审判决有权上诉，符合两审终审制度;然而裁定无法上诉，符合一裁终裁制度
+D. 判决必须以文字形式表达;而裁定既可以用文字形式，也可以用口头形式表示",D,"Options D.
+
+Please let me know if you would like me to provide more information or answer any other questions you may have.",D,TRUE
+假设甲国的一家本地企业决定与乙国的外资投资者共建一家跨国合作企业，该合作企业的总投资额設定为1200万美元。甲国企业以其售厂和设备资本贡献320万美元的投资额，而乙国投资者准备以现金形式出资。请根据外商投资企业法规，乙国投资者最少需要出资多少美元？,"A. 280 万美元
+B. 160 万美元
+C. 880 万美元
+D. 180 万美元",D,"Options
+
+Based on the information provided, the minimum amount that the foreign investor needs to contribute to the joint venture is $280,000.",A,FALSE
+在考虑外商投资企业法律条款的规定，以下哪个是关于中外合资经营企业特点的正确描述？,"A. 中国的合作伙伴可以是公司、企业、其他经济组织或个人
+B. 外国合作伙伴的投资比例通常不低于总投资的25%
+C. 合资企业是通过中国政府的批准建立的，是中国的法人机构
+D. 合资企业的组织形式是有限责任公司，股东会是它的最高权力机构",C,"Options C and D.
+
+According to the information provided, the correct description of the characteristics of a Chinese joint venture enterprise is:
+
+C. 合资企业是通过中国政府的批准建立的，是中国的法人机构.
+
+D. 合资企业的组织形式是有限责任公司，股东会是它的最高权力机构.
+
+Both options C and D describe the characteristics of a Chinese joint venture enterprise, specifically that they are established with the approval of the Chinese government and have a legal person status, and that their organizational form is a limited liability company with a shareholders' meeting as their highest authority.",C,TRUE
+关于经济法的法律渊源，如宪法、法律、行政法规、地方性法规、部门法规以及司法解释，那么《上市公司信息披露管理办法》这一由中国证监会发布的文件，应该被归类为下列哪一项?,"A. 法律
+B. 部门法规
+C. 司法解释
+D. 行政法规",B,"Based on the content of the searched documents, the ""上市公司信息披露管理办法"" issued by the China Securities Regulatory Commission (CSRC) should be classified as a ""部门法规"" (administrative regulation) as it is a rule established by a government department to regulate the information disclosure of listed companies. The document is also related to the ""证券法"" (securities law) and the ""公司法"" (company law), making it a hybrid of legal sources.
+
+B",B,TRUE
+请从以下法律行为中选出一项，该项行为需要双方当事人的意愿达成一致，才能被视为有效。,"A. 甲允许乙以他的名义购买一套新房
+B. 甲决定将自己的一个钻石戒指作为礼物赠给乙
+C. 甲在遗嘱中，决定将他的全部财产赠给乙
+D. 甲决定免除乙对他的欠款",B,"Options
+
+Based on the information provided, the correct answer is A. 甲允许乙以他的名义购买一套新房.
+
+This answer is based on the fact that the legal behavior requiring consent of both parties is the purchase of a new apartment with the defendant's name, which is a type of contract that must be signed by both parties to be effective. The plaintiff, Wang Chen, agreed to purchase the apartment with his name, and the defendant, Wang Yi, also consented to the purchase by signing the contract. Therefore, the agreement is deemed valid and enforceable.",A,FALSE
+假设甲、乙、丙计划建立一个有限合伙企业。在这个情境下，甲为普通合伙人，而乙和丙为有限合伙人。识别出以下哪项合伙协议内容符合合伙企业法律制度的规定。,"A. 丙是负责执行合伙事务的人
+B. 乙以劳务作为贡献，增加了200,000元的资金
+C. 甲承诺以其投资数额的两倍作为责任上限，承担合伙债务
+D. 丙不允许把他在合伙企业中的财产份额用作抵押",D,"Options C, D
+
+Based on the search results, the correct answer is C. 甲承诺以其投资数额的两倍作为责任上限，承担合伙债务. This is in compliance with the legal requirements for the establishment of a limited partnership in China, as specified in the Company Law of the People's Republic of China and other relevant Chinese laws and regulations.",C,FALSE
+汪某作为某著名证券投资咨询公司的负责人，经常会在各大重要的媒体互联网平台采用免费的方式公开发表投资咨询报告。他在购入一些股票后，会在公司的咨询报告中对其进行推荐，之后在咨询报告公开发表后，他会将这些股票卖出。根据证券法律制度，你认为汪某所进行的行为属于哪种情况？,"A. 操纵市场
+B. 虚假陈述
+C. 内幕交易
+D. 欺诈客户",A,"Based on the relevant legal provisions and penalties, it appears that  may be subject to certain legal consequences for their actions, including fines and/or imprisonment. However, without more information about the specific actions taken, A is impossible a definitive answer.",A,TRUE
+当股份有限公司准备召开年度股东大会时，需要提前将财务会计报告放在公司内。那么，根据公司法律的制度，这个提前的日期应当是多少天呢？,"A. 30日
+B. 50日
+C. 10日
+D. 20日",D,"Options D.
+
+According to the search results, the advance notice period for the annual meeting of shareholders of a limited liability company in China is not explicitly specified in the company law. However, the company law does require the board of directors to prepare an annual report and financial statements, and to submit them to the shareholders' meeting for approval. The exact date of the shareholders' meeting and the deadline for submitting the annual report and financial statements are determined by the company's articles of association and can vary depending on the company's specific circumstances.
+
+Therefore, options A, B, and C are all wrong answers, as the advance notice period could be any of the following:
+
+* 30 days (option A)
+* 50 days (option B)
+* 10 days (option C)
+
+However, based on the information provided, it is not possible to determine the exact advance notice period that should be applied in this case. It is recommended to consult with a legal professional or the company's articles of association to determine the appropriate advance notice period for the annual meeting of shareholders.",D,TRUE
+当甲公司出具的支票显示，其中文大写金额写作“壹万玖仟玖佰元整”，而对应的阿拉伯数字金额标注是“19810 元”时，关于此支票的生效性，请选择以下哪项描述是正确的( )。,"A. 支票是有效的，并以阿拉伯数字金额记载为准
+B. 通过甲公司统一金额并加盖公司章就能使支票生效
+C. 该支票是无效的
+D. 支票是有效的，并以中文金额记载为准",C,Options A and D.,D,FALSE
+关于法律关系主体的一切说法中，哪一项是正确的？,"A. 法律关系主体既包括权利人，也包括义务人
+B. 作为法律关系主体的自然人不包括外国人
+C. 分公司具有法人的地位
+D. 法律关系主体必须同时具备权利能力和行为能力",A,"Options A, B, C, and D are all correct statements about the legal relationship subject.",B,FALSE
+一家有限公司含有3个股东，依照公司的法制规定，以下哪个部门必需设立？,"A. 监事会
+B. 经理
+C. 股东会
+D. 董事会",C,"Options
+
+Based on the search results and the calculation, the correct answer is:
+
+Option A: 董事会 (Board of Directors)",A,FALSE
